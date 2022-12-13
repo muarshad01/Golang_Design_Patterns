@@ -18,12 +18,12 @@
 
 ## Structural Design Pattern
 
-[Adapter]()
-[Bridge]()
-[Composite]()
-[Flyweight]()
-[Proxy]()
-[Decorator]()
-[Facade]()
+* [Adapter]()
+* [Bridge]()
+* [Composite]()
+* [Flyweight]()
+* [Proxy]()
+* [Decorator]()
+* [Facade]()
 
 ***
