@@ -30,16 +30,16 @@
 
 ## Behavioural Design Patterns
 
-[Chain of Responsiblity]()
-[Command]()
-[Iterator]()
-[Mediator]()
-[Observer]()
-[State]()
-[Strategy]()
-[Template Method]()
-[Visitor]()
-[Memento]()
-[Null Object]()
+* [Chain of Responsiblity]()
+* [Command]()
+* [Iterator]()
+* [Mediator]()
+* [Observer]()
+* [State]()
+* [Strategy]()
+* [Template Method]()
+* [Visitor]()
+* [Memento]()
+* [Null Object]()
 
 ***
