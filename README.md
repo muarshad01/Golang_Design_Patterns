@@ -7,14 +7,6 @@
 
 ## Creational Design Patterns
 
-<<<<<<< HEAD
-Abstract Factory
-Factory
-Builder
-Prototype
-Singleton
-Object Pool
-=======
 * [Abstract Factory]()
 * [Factory]()
 * [Builder]()
@@ -51,4 +43,3 @@ Object Pool
 * [Null Object]()
 
 ***
->>>>>>> 7f51ed0c99a568741cf9784d2a6abf8ab2023ad7
