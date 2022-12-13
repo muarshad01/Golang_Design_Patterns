@@ -16,7 +16,7 @@
 
 ***
 
-## Structural Design Pattern
+## Structural Design Patterns
 
 * [Adapter]()
 * [Bridge]()
@@ -25,5 +25,21 @@
 * [Proxy]()
 * [Decorator]()
 * [Facade]()
+
+***
+
+## Behavioural Design Patterns
+
+[Chain of Responsiblity]()
+[Command]()
+[Iterator]()
+[Mediator]()
+[Observer]()
+[State]()
+[Strategy]()
+[Template Method]()
+[Visitor]()
+[Memento]()
+[Null Object]()
 
 ***
