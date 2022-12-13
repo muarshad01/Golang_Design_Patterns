@@ -7,11 +7,11 @@
 
 ## Creational Design Patterns
 
-[Abstract Factory]()
-[Factory]()
-[Builder]()
-[Prototype]()
-[Singleton]()
-[Object Pool]()
+* [Abstract Factory]()
+* [Factory]()
+* [Builder]()
+* [Prototype]()
+* [Singleton]()
+* [Object Pool]()
 
 ***
