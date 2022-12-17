@@ -42,4 +42,4 @@ func main() {
 
 ***
 
-![Diagram](https://github.com/muarshad01/Design_Patterns_Go/commit/67eea52bdb1d4d9871f644c94705b954cfe4743d)
+![Proxy Pattern](https://github.com/muarshad01/Design_Patterns_Go/commit/67eea52bdb1d4d9871f644c94705b954cfe4743d)
