@@ -53,4 +53,7 @@ $ go install github.com/jfeliu007/goplantuml/cmd/goplantuml@latest
 
 $goplantuml $GOPATH/src/patterns/proxy > proxy.puml
 ```
+
+* [PlantUML](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000)
+
 ***
