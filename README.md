@@ -43,3 +43,7 @@
 * [Null Object]()
 
 ***
+
+* [How to turn your Golang programs into UML Class diagrams](https://www.reddit.com/r/golang/comments/ccc3cd/how_to_turn_your_golang_programs_into_uml_class/)
+
+***
