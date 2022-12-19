@@ -19,7 +19,7 @@
 ## Structural Design Patterns
 
 * [Adapter]()
-* [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/bridge.md)
+* [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/bridge.md) -- Done
 * [Composite]()
 * [Flyweight]()
 * [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/proxy.md) -- Done
