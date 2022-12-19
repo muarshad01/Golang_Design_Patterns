@@ -53,4 +53,4 @@ Proxy is a structural design pattern that provides an object that acts as a subs
 
 
 
-[Example](images/proxy_in_go.png)
+![Example](images/proxy_in_go.png)
