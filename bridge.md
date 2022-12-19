@@ -1,4 +1,11 @@
 One of these hierarchies (often called the Abstraction) will get a reference to an object of the second hierarchy (Implementation). The abstraction will be able to delegate some (sometimes, most) of its calls to the implementations object. Since all implementations will have a common interface, they’d be interchangeable inside the abstraction.
+
+* Decouple abstraction from implementation 
+
+* Both can exist as hierarchies
+
+* A stronger from of encapsulation
+
 ***
 
 ```go
