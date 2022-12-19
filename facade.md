@@ -60,3 +60,10 @@ func main() {
 ***
 
 ![facade Pattern](images/facade.png)
+
+
+***
+
+
+![facade Golang Pattern](images/facade_golang.png)
+
