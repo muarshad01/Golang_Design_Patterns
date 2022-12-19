@@ -52,3 +52,11 @@ func main() {
 ***
 
 ![Bridge Pattern - Code Diagram](images/bridge.png)
+
+***
+
+[Bridge in Go](https://refactoring.guru/design-patterns/bridge/go/example#:~:text=Bridge%20is%20a%20structural%20design,the%20second%20hierarchy%20(Implementation).)
+
+Bridge is a structural design pattern that divides business logic or huge class into separate class hierarchies that can be developed independently.
+
+![Bridge Conceptual Example Diagram](images/bridge_go.png)
