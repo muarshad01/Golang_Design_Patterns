@@ -24,7 +24,7 @@
 * [Flyweight]()
 * [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/proxy.md)
 * [Decorator]()
-* [Facade](https://github.com/muarshad01/Design_Patterns_Go/blob/master/facade.md)
+* $${\color{red}{[Facade](https://github.com/muarshad01/Design_Patterns_Go/blob/master/facade.md)}}$$
 
 ***
 
