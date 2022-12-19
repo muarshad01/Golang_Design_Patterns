@@ -64,6 +64,7 @@ func main() {
 
 ***
 
+[Facade in Go](https://refactoring.guru/design-patterns/facade/go/example)
 
-![facade Golang Pattern](images/facade_golang.png)
+![Conceptual Example](images/facade_golang.png)
 
