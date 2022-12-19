@@ -43,3 +43,9 @@ func main() {
 ***
 
 ![Proxy Pattern](images/proxy.png)
+
+***
+
+
+[Proxy in Go](...)
+[Example](images/proxy_in_go.png)
