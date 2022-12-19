@@ -22,9 +22,9 @@
 * [Bridge]()
 * [Composite]()
 * [Flyweight]()
-* [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/proxy.md)
+* [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/proxy.md) -- Done
 * [Decorator]()
-* $${\color{red}[Facade](https://github.com/muarshad01/Design_Patterns_Go/blob/master/facade.md)}$$
+* [Facade](https://github.com/muarshad01/Design_Patterns_Go/blob/master/facade.md) -- Done
 
 ***
 
