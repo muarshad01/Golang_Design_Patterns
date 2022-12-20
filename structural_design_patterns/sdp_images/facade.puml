@@ -1,0 +1,28 @@
+@startuml
+namespace facade {
+    class Buffer << (S,Aquamarine) >> {
+        - width int
+        - buffer []rune
+
+        + At(index int) rune
+
+    }
+    class Console << (S,Aquamarine) >> {
+        - buffers []*Buffer
+        - viewports []*Viewport
+        - offset int
+
+        + GetCharacterAt(index int) rune
+
+    }
+    class Viewport << (S,Aquamarine) >> {
+        - buffer *Buffer
+        - offset int
+
+        + GetCharacterAt(index int) rune
+
+    }
+}
+
+
+@enduml
