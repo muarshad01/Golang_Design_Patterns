@@ -18,13 +18,13 @@
 
 ## Structural Design Patterns (ABCDF2P)
 
-* [Adapter](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/adapter.md)
-* [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/bstructural_design_patterns/sridge.md)
-* [Composite](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/composite.md)
-* [Decorator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/decorator.md)
-* [Flyweight](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/decorator.md)
-* [Facade](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/facade.md)
-* [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/proxy.md)
+* [Adapter](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/adapter/adapter.md)
+* [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/bstructural_design_patterns/bridge/bridge.md)
+* [Composite](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/composite/composite.md)
+* [Decorator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/decorator/decorator.md)
+* [Flyweight](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/flyweight/flyweight.md)
+* [Facade](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/facade/facade.md)
+* [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/proxy/proxy.md)
 
 ***
 
