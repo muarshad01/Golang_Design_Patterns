@@ -18,7 +18,7 @@
 
 ## Structural Design Patterns
 
-* [Adapter]()
+* [Adapter](https://github.com/muarshad01/Design_Patterns_Go/blob/master/adapter.md) -- Done
 * [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/bridge.md) -- Done
 * [Composite]()
 * [Flyweight]()
