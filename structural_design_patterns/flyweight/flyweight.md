@@ -8,4 +8,4 @@ Flyweight is a structural design pattern that allows programs to support vast qu
 
 The pattern achieves it by sharing parts of object state between multiple objects. In other words, the Flyweight saves RAM by caching the same data used by different objects.
 
-![Conceptual Example](images/flyweight_go.png)
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/sdp_images/flyweight_go.png)

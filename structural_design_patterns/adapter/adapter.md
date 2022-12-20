@@ -10,5 +10,4 @@ The Adapter acts as a *wrapper* between two objects. It catches calls for one ob
 
 ***
 
-![Conceptual Example](images/adapter_go.png)
 ![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/sdp_images/adapter_go.png)

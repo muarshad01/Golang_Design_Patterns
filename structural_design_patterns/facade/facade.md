@@ -68,5 +68,5 @@ func main() {
 
 Facade is a structural design pattern that provides a simplified (but limited) interface to a complex system of classes, library or framework.
 
-![Conceptual Example](images/facade_golang.png)
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/sdp_images/facade.png)
 

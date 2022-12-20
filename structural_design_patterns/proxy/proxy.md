@@ -51,6 +51,4 @@ func main() {
 
 Proxy is a structural design pattern that provides an object that acts as a substitute for a real service object used by a client. A proxy receives client requests, does some work (access control, caching, etc.) and then passes the request to a service object.
 
-
-
-![Example](images/proxy_in_go.png)
+![Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/sdp_images/proxy.png)

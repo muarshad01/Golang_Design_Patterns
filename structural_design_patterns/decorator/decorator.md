@@ -8,4 +8,4 @@ Using decorators you can wrap objects countless number of times since both targe
 
 ***
 
-![Conceptual Example](images/decorator_go.png)
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/sdp_images/decorator_go.png)

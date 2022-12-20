@@ -11,4 +11,4 @@ Composite became a pretty popular solution for the most problems that require bu
 
 ***
 
-![Conceptual Example](images/composite_go.png)
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/sdp_images/composite.png)
