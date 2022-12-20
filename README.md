@@ -16,15 +16,15 @@
 
 ***
 
-## Structural Design Patterns
+## Structural Design Patterns (ABCDF2P)
 
 * [Adapter](https://github.com/muarshad01/Design_Patterns_Go/blob/master/adapter.md) -- Done
 * [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/bridge.md) -- Done
 * [Composite](https://github.com/muarshad01/Design_Patterns_Go/blob/master/composite.md) -- Done
-* [Flyweight]()
-* [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/proxy.md) -- Done
 * [Decorator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/decorator.md) -- Done
+* [Flyweight]()
 * [Facade](https://github.com/muarshad01/Design_Patterns_Go/blob/master/facade.md) -- Done
+* [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/proxy.md) -- Done
 
 ***
 
