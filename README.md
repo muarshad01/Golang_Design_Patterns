@@ -11,7 +11,7 @@
 * [Factory]()
 * [Builder]()
 * [Prototype]()
-* [Singleton]()
+* [Singleton](https://github.com/muarshad01/Design_Patterns_Go/blob/singleton/creational_design_patterns/singleton.md)
 * [Object Pool]()
 
 ***
