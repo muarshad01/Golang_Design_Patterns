@@ -13,4 +13,4 @@ Client code works with factories and products only through their abstract interf
 
 ***
 
-![Conceptual Example(]https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/cdp_images/abstract_factory_go.png)
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/cdp_images/abstract_factory_go.png)
