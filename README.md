@@ -8,7 +8,11 @@
 ## Creational Design Patterns
 
 * [Abstract Factory]()
+<<<<<<< HEAD
 * [Factory](https://github.com/muarshad01/Design_Patterns_Go/blob/singleton/creational_design_patterns/singleton.md)
+=======
+* [Factory](https://github.com/muarshad01/Design_Patterns_Go/blob/singleton/creational_design_patterns/factory.md)
+>>>>>>> 303421a (factory)
 * [Builder]()
 * [Prototype]()
 * [Singleton](https://github.com/muarshad01/Design_Patterns_Go/blob/singleton/creational_design_patterns/singleton.md)
