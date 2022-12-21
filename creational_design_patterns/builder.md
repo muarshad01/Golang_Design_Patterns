@@ -9,4 +9,4 @@ Unlike other creational patterns, Builder doesn’t require products to have a c
 
 ***
 
-![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/tree/master/creational_design_patterns/cdp_images/builder_go.png)
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/cdp_images/builder_go.png)
