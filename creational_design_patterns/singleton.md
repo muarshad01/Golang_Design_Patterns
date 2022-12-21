@@ -11,4 +11,4 @@ You can’t just use a class that depends on a Singleton in some other context, 
 
 ***
 
-![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/tree/sisngleton/creational_design_patterns/cdp_images/single_go.png)
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/tree/singleton/creational_design_patterns/cdp_images/single_go.png)
