@@ -32,7 +32,7 @@
 ## Behavioural Design Patterns
 
 * [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_resp.md) -- Done
-* [Command]()
+* [Command](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/command.md) -- Done
 * [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator.md) -- Done
 * [Mediator]()
 * [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer.md) -- Done
