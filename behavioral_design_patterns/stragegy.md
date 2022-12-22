@@ -10,4 +10,4 @@ The original object, called context, holds a reference to a strategy object. The
 
 ***
 
-![Navigation]()
+![Navigation](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/bdp_images/strategy.png)
