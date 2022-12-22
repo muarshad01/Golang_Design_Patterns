@@ -37,7 +37,7 @@
 * [Mediator]()
 * [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer.md) -- Done
 * [State]()
-* [Strategy]()
+* [Strategy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/stragegy.md) -- Done
 * [Template Method]()
 * [Visitor](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/visitor.md) -- Done
 * [Memento](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/memento.md) -- Done
