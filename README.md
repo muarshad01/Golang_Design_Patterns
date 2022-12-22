@@ -31,16 +31,16 @@
 
 ## Behavioural Design Patterns
 
-* [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_resp.md)
+* [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_resp.md) -- Done
 * [Command]()
-* [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator.md)
+* [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator.md) -- Done
 * [Mediator]()
 * [Observer]()
 * [State]()
 * [Strategy]()
 * [Template Method]()
 * [Visitor]()
-* [Memento](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/memento.md)
+* [Memento](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/memento.md) -- Done
 * [Null Object]()
 
 ***
