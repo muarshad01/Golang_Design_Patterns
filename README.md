@@ -12,7 +12,7 @@
 * [Builder](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/builder.md)
 * [Prototype](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/prototype.md)
 * [Singleton](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/singleton.md)
-* [Object Pool](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/singleton.md)
+* [Object Pool](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/object_pool.md)
 
 ***
 
