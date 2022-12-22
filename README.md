@@ -2,6 +2,7 @@
 # Design Patterns in Go
 
 * [All Design Patterns in Go (Golang)](https://golangbyexample.com/all-design-patterns-golang/)
+* [DESIGN PATTERNS in GO](https://refactoring.guru/design-patterns/go)
 
 ***
 
