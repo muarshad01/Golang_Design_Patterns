@@ -35,7 +35,7 @@
 * [Command]()
 * [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator.md) -- Done
 * [Mediator]()
-* [Observer]()
+* [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer.md) -- Done
 * [State]()
 * [Strategy]()
 * [Template Method]()
