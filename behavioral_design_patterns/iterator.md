@@ -8,5 +8,5 @@ Thanks to the Iterator, clients can go over elements of different collections in
 
 ***
 
-![Conceptual Example]()
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/bdp_images/iterator.png)
 

@@ -9,23 +9,23 @@
 ## Creational Design Patterns
 
 * [Abstract Factory](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/abstract_factory/abstract_factory.md)
-* [Factory](         https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/factory/factory.md)
-* [Builder](         https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/builder/builder.md)
-* [Prototype](       https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/prototype/prototype.md)
-* [Singleton](       https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/singleton/singleton.md)
-* [Object Pool](     https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/object_pool/object_pool.md)
+* [Factory](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/factory/factory.md)
+* [Builder](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/builder/builder.md)
+* [Prototype](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/prototype/prototype.md)
+* [Singleton](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/singleton/singleton.md)
+* [Object Pool](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/object_pool/object_pool.md)
 
 ***
 
 ## Structural Design Patterns (ABCDF2P)
 
-* [Adapter](  https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/adapter/adapter.md)
-* [Bridge](   https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/bridge/bridge.md)
+* [Adapter](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/adapter/adapter.md)
+* [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/bridge/bridge.md)
 * [Composite](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/composite/composite.md)
 * [Decorator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/decorator/decorator.md)
 * [Flyweight](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/flyweight/flyweight.md)
-* [Facade](   https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/facade/facade.md)
-* [Proxy](    https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/proxy/proxy.md)
+* [Facade](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/facade/facade.md)
+* [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/proxy/proxy.md)
 
 ***
 
@@ -33,7 +33,7 @@
 
 * [Chain of Responsiblity]()
 * [Command]()
-* [Iterator]()
+* [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator/iterator.md)
 * [Mediator]()
 * [Observer]()
 * [State]()
