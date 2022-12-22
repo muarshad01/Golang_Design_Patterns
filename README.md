@@ -33,7 +33,7 @@
 
 * [Chain of Responsiblity]()
 * [Command]()
-* [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator/iterator.md)
+* [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator.md)
 * [Mediator]()
 * [Observer]()
 * [State]()
