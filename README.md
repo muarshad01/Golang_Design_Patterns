@@ -40,7 +40,7 @@
 * [Strategy]()
 * [Template Method]()
 * [Visitor]()
-* [Memento](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/visitor.md)
+* [Memento](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/memento.md)
 * [Null Object]()
 
 ***
