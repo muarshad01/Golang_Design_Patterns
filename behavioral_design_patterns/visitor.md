@@ -6,4 +6,4 @@ Visitor is a behavioral design pattern that allows adding new behaviors to exist
 
 ***
 
-![Conceptual Example]()
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/bdp_images/visitor.png)
