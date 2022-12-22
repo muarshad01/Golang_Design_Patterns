@@ -7,12 +7,12 @@
 
 ## Creational Design Patterns
 
-* [Abstract Factory](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/abstract_factory.md)
-* [Factory](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/factory.md)
-* [Builder](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/builder.md)
-* [Prototype](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/prototype.md)
-* [Singleton](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/singleton.md)
-* [Object Pool](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/object_pool.md)
+* [Abstract Factory](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/abstract_factory/abstract_factory.md)
+* [Factory](         https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/factory/factory.md)
+* [Builder](         https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/builder/builder.md)
+* [Prototype](       https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/prototype/prototype.md)
+* [Singleton](       https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/singleton/singleton.md)
+* [Object Pool](     https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/object_pool/object_pool.md)
 
 ***
 
