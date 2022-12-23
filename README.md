@@ -30,16 +30,16 @@
 
 ## Behavioural Design Patterns
 
-* [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_resp.md) -- Done
-* [Command](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/command.md) -- Done
-* [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator.md) -- Done
-* [Mediator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/mediator.md) -- Done
-* [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer.md) -- Done
-* [State](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/state.md) -- Done
-* [Strategy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/stragegy.md) -- Done
-* [Template Method](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/template.md) -- Done
-* [Visitor](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/visitor.md) -- Done
-* [Memento](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/memento.md) -- Done
+* [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_resp/chain_of_resp.md)
+* [Command](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/command/command.md)
+* [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator/iterator.md)
+* [Mediator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/mediator/mediator.md)
+* [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer/observer.md)
+* [State](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/state/state.md) -- Done
+* [Strategy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/strategy/stragegy.md)
+* [Template Method](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/template/template.md)
+* [Visitor](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/visitor/visitor.md)
+* [Memento](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/memento/memento.md)
 * [Null Object]()
 
 ***
