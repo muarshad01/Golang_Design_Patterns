@@ -1,7 +1,8 @@
 # Design Patterns in Go
 
 * [All Design Patterns in Go (Golang)](https://golangbyexample.com/all-design-patterns-golang/)
-* [DESIGN PATTERNS in GO](https://refactoring.guru/design-patterns/go)
+* [Design Patterns in Go](https://refactoring.guru/design-patterns/go)
+* [GoF Design patterns that still make sense in Go](https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5)
 
 ***
 
