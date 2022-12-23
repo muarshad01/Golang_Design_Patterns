@@ -8,4 +8,4 @@ The Mediator makes it easy to modify, extend and reuse individual components bec
 
 ***
 
-![Conceptual Example]()
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/bdp_images/mediator.png)
