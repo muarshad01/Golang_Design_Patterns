@@ -5,4 +5,4 @@ Template Method is a behavioral design pattern that allows you to defines a skel
 [Template Method in Go](https://refactoring.guru/design-patterns/template-method/go/example#example-0)
 ***
 
-![Conceptual Example]()
+![Conceptual Example](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/bdp_images/template.png)
