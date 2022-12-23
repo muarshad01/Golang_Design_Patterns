@@ -1,4 +1,3 @@
-
 # Design Patterns in Go
 
 * [All Design Patterns in Go (Golang)](https://golangbyexample.com/all-design-patterns-golang/)
@@ -34,7 +33,7 @@
 * [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_resp.md) -- Done
 * [Command](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/command.md) -- Done
 * [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator.md) -- Done
-* [Mediator]()
+* [Mediator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/mediator.md) -- Done
 * [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer.md) -- Done
 * [State](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/state.md) -- Done
 * [Strategy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/stragegy.md) -- Done
