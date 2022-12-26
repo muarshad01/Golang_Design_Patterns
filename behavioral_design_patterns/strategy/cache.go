@@ -9,7 +9,8 @@ type Cache struct {
 
 func initCache(e EvictionAlgo) *Cache {
 	storage := make(map[string]string)
-	return &Cache{
+
+    return &Cache{
 		storage:      storage,
 		evictionAlgo: e,
 		capacity:     0,

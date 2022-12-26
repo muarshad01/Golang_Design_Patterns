@@ -16,6 +16,7 @@ func (a *MiddleCoordinates) visitForSquare(s *Square) {
 func (a *MiddleCoordinates) visitForCircle(c *Circle) {
 	fmt.Println("Calculating middle point coordinates for circle")
 }
+
 func (a *MiddleCoordinates) visitForrectangle(t *Rectangle) {
 	fmt.Println("Calculating middle point coordinates for rectangle")
 }
