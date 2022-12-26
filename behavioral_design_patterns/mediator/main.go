@@ -6,6 +6,7 @@ func main() {
 	passengerTrain := &PassengerTrain{
 		mediator: stationManager,
 	}
+
 	freightTrain := &FreightTrain{
 		mediator: stationManager,
 	}
