@@ -31,7 +31,7 @@
 
 ## Behavioural Design Patterns
 
-* [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_responsibility/chain_of_resp.md)
+* [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_responsibility/chain_of_resp.md) -- Passes request along a chain-of-potential-handlers
 * [Command](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/command/command.md)
 * [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator/iterator.md)
 * [Mediator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/mediator/mediator.md) -- Facilitates indirect communication
