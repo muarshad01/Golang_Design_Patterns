@@ -35,7 +35,7 @@
 * [Command](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/command/command.md)
 * [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator/iterator.md)
 * [Mediator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/mediator/mediator.md)
-* [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer/observer.md)
+* [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer/observer.md) Notification Service
 * [State](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/state/state.md)
 * [Strategy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/strategy/strategy.md)
 * [Template Method](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/template/template.md)
