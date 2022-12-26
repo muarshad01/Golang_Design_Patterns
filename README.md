@@ -64,4 +64,5 @@ $goplantuml $GOPATH/src/patterns/proxy > proxy.puml
 
 ## Useful Links
 
-[Welcome To Golang By Example](https://golangbyexample.com/)
+* [Welcome To Golang By Example](https://golangbyexample.com/)
+* [Awesome Go](https://github.com/avelino/awesome-go)
