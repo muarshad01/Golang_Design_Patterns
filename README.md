@@ -34,7 +34,7 @@
 
 * [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_responsibility/chain_of_resp.md) -- Passes request along a chain-of-potential-handlers (type Handler Interface{})
 * [Command](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/command/command.md)
-* [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator/iterator.md)
+* [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator/iterator.md) -- sql.Rows
 * [Mediator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/mediator/mediator.md) -- Facilitates indirect communication
 * [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer/observer.md) -- Notification Service
 * [State](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/state/state.md)
