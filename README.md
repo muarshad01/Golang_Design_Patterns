@@ -20,7 +20,7 @@
 
 ## Structural Design Patterns (ABCDF2P)
 
-* [Adapter](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/adapter/adapter.md)
+* [Adapter](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/adapter/adapter.md) -- Database / SQL package
 * [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/bridge/bridge.md)
 * [Composite](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/composite/composite.md)
 * [Decorator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/decorator/decorator.md)
