@@ -23,7 +23,7 @@
 * [Adapter](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/adapter/adapter.md) -- Database / SQL package
 * [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/bridge/bridge.md)
 * [Composite](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/composite/composite.md)
-* [Decorator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/decorator/decorator.md)
+* [Decorator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/decorator/decorator.md) -- Adding buffers to IO classes
 * [Flyweight](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/flyweight/flyweight.md)
 * [Facade](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/facade/facade.md)
 * [Proxy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/proxy/proxy.md)
