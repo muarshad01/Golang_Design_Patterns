@@ -66,3 +66,6 @@ $goplantuml $GOPATH/src/patterns/proxy > proxy.puml
 
 * [Welcome To Golang By Example](https://golangbyexample.com/)
 * [Awesome Go](https://github.com/avelino/awesome-go)
+
+## Ohter
+* [Python Design Patterns](https://python-patterns.guide/)
