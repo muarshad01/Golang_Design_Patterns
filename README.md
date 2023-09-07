@@ -7,18 +7,18 @@
 
 ***
 
-## Creational Design Patterns (ABFPS)
+## Creational Design Patterns (ABF-P-S)
 
 * [Abstract Factory](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/abstract_factory/abstract_factory.md)
 * [Builder](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/builder/builder.md)
-* [Factory](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/factory/factory.md)
+* [Factory Method](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/factory/factory.md)
 * [Prototype](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/prototype/prototype.md)
 * [Singleton](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/singleton/singleton.md)
 * [Object Pool](https://github.com/muarshad01/Design_Patterns_Go/blob/master/creational_design_patterns/object_pool/object_pool.md)
 
 ***
 
-## Structural Design Patterns (ABCDF2P)
+## Structural Design Patterns (ABCD-F2-P)
 
 * [Adapter](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/adapter/adapter.md) -- Database / SQL package
 * [Bridge](https://github.com/muarshad01/Design_Patterns_Go/blob/master/structural_design_patterns/bridge/bridge.md)
@@ -30,19 +30,18 @@
 
 ***
 
-## Behavioural Design Patterns
+## Behavioural Design Patterns (C2-I-M2-O-S2-TV)
 
 * [Chain of Responsiblity](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/chain_of_responsibility/chain_of_resp.md) -- Passes request along a chain-of-potential-handlers (type Handler Interface{})
 * [Command](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/command/command.md)
 * [Iterator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/iterator/iterator.md) -- sql.Rows
+* [Memento](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/memento/memento.md) -- Take Snapshots and Restore Later
 * [Mediator](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/mediator/mediator.md) -- Facilitates indirect communication
 * [Observer](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/observer/observer.md) -- Notification Service (Channels: Produce & Consumer(s))
 * [State](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/state/state.md)
 * [Strategy](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/strategy/strategy.md)
 * [Template Method](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/template/template.md) -- Sorting objects is a pretty typical example of Template Method still in action in Go.
 * [Visitor](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/visitor/visitor.md)
-* [Memento](https://github.com/muarshad01/Design_Patterns_Go/blob/master/behavioral_design_patterns/memento/memento.md) -- Take Snapshots and Restore Later
-* [Null Object]()
 
 ***
 
